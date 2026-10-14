@@ -1,0 +1,9 @@
+# Config real com o endereço SECRETO do Google iCal — nunca versionar
+config.php
+
+# Cache dos .ics baixados (contêm detalhes privados dos compromissos)
+cache/*
+!cache/.htaccess
+
+*.log
+.DS_Store

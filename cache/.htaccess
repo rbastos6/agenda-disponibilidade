@@ -1,0 +1,6 @@
+# Protege os .ics cacheados (contêm detalhes privados dos compromissos)
+Require all denied
+<IfModule !mod_authz_core.c>
+  Order allow,deny
+  Deny from all
+</IfModule>
