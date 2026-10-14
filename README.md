@@ -2,7 +2,7 @@
 
 > **Projeto de aula de IA** — desenvolvido com apoio de IA generativa (Claude Code / modelo Opus).
 >
-> - 🔗 **Repositório GitHub:** _(preencher com a URL após criar o repositório)_
+> - 🔗 **Repositório GitHub:** https://github.com/rbastos6/agenda-disponibilidade
 > - 🌐 **Demo ao vivo:** https://rafabastos.com/agenda/
 
 Uma página que **junta dois calendários** (Microsoft Office 365 + Google) e mostra, de forma pública e segura, **apenas os horários livres/ocupados** numa grade semanal — sem revelar nenhum detalhe dos compromissos. Qualquer pessoa com o link vê a disponibilidade e pode **pedir uma reserva pelo WhatsApp** escolhendo um horário.
